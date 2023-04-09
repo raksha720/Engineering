@@ -1,0 +1,79 @@
+//identifiers / names
+/* begin with
+//letter
+underscore
+dollar
+
+//full name may contain
+letter
+underscore
+dollar
+digits
+
+//no length limitation
+
+//case sensitive
+
+//convention---no uppercase
+
+*/
+
+//reserved words
+
+//predefined words
+/*
+alert
+open
+java
+self
+*/
+
+//comment
+
+//issues regarding embedding js in html doc
+
+//semicolons
+
+//prog
+
+//primitives
+/*
+//5 types
+number
+string
+boolean
+undefined
+null
+
+//wrapper objects
+
+//properties       //methods
+
+//numeric       //string        //null      //undefined         //boolean
+
+//variable declare
+
+//numeric operator
+
+//math object
+
+//number object
+
+//string catenation operator
+
+//implicit type conversions
+
+//explicit type conversions
+
+//string properties and methods
+
+//the typeOf operator
+
+//assignment statement
+
+//date object
+
+
+*/
+
+
