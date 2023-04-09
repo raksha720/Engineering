@@ -1,0 +1,41 @@
+graph
+
+https://drive.google.com/file/d/1nUR_EVRo7gGsWCDA90cW4Zn-vcWBLlf3/view
+
+https://drive.google.com/file/d/1nUR_EVRo7gGsWCDA90cW4Zn-vcWBLlf3/view
+
+
+trees traversal
+
+https://drive.google.com/file/d/1803ly_-gvr-fiWoTMnSB4MZidlhK-YEu/view
+
+https://drive.google.com/file/d/1pOlYF06l68cFhcQxEc-KT-klp5SNyeuS/view
+
+tree
+
+https://drive.google.com/file/d/1uMg_EVYMiwxOepvZTYBtLZBspopbDAA-/view
+
+Binary Tree Construction Class
+
+https://drive.google.com/file/d/18iUv1kcsnFDUz9XHMm7j1NfZekdRW1hS/view
+
+Data categorization
+
+Write a program to categorize the data without destroying their original sequence.
+Eg: Consider a group of numbers. Group the numbers maintaining their original order in each group.
+3 22 12 6 10 34 65 29 9 30 81 4 5 19 20 57 44 99
+categorize these nos in to 4 groups:
+Group 1: < 10
+Group 2: >10 and < 19
+Group 3: >19 < 29
+group 4: >29
+Hint: Create multiple queues.
+
+recurssion
+Design a menu driven program by defining recursive functions to perform the following: and submit to lab classroom
+1. To find factorial of a number
+2. To find the nth fibonacci number
+3. To find the smallest element in an array of N elements
+4. To find the product of all the elements in an array of N elements
+5. To solve Tower of Hanoi problem
+

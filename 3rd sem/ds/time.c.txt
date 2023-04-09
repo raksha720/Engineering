@@ -1,0 +1,88 @@
+#include<stdio.h>
+struct TIME
+{
+  int hr, min, sec;
+};
+typedef struct  TIME Time;
+void Read(Time *);
+void Disp(Time *);
+void Update(Time *);
+void Add(Time *, Time *, Time*);
+void main()
+{
+   int ch;
+   Time T1, T2, T3, T4;
+   
+   clrscr();
+   for(;;)
+   {
+     printf("enter choice:\n1:Read\n2:update\n3:Add\n4:exit\n");
+     scanf("%d", &ch);
+     switch(ch)
+     {
+       case 1: printf("Reading T1..\n");
+	       Read(&T1);
+	       printf("Reading T2..\n");
+	       Read(&T2);
+	       printf("\nT1 = ");
+	       Disp(&T1);
+	       printf("\nT 2=");
+	       Disp(&T2);
+	       break;
+       case 2: Read(&T3) ;
+		Update(&T3);
+		Disp(&T3);break;
+    	  case 3: Add(&T1,&T2,&T4); Disp(&T4); break;
+       default:exit(0);
+     }
+   }
+   getch();
+}
+void Read(Time *T)
+{
+   printf("enter hrs mins and sec\n");
+   scanf("%d%d%d", &T->hr,&T->min, &T->sec);;
+}
+void Disp(Time *T)
+{
+  printf("%d:%d:%d\n", T->hr, T->min, T->sec);
+}
+void Update(Time *T)
+{
+   T->sec++;
+   if(T->sec>=60)
+    {
+      T->min = T->min + T->sec/60;
+      T->sec = T->sec % 60;
+      if(T->min>=60)
+       {
+	 T->hr += T->min/60;
+	 T->min =T->min%60;
+	 if(T->hr>=24)
+
+	   T->hr=T->min=T->sec=0;
+      }
+   }
+  }
+
+void Add(Time *t1, Time *t2, Time *t3)  
+{
+  
+  t3->hr= t1->hr+t2->hr;
+  t3->min = t1->min+t2->min;
+  t3->sec= t1->sec+t2->sec;
+  if(t3.sec>=60)
+    {
+      t3.min = t3.min + t3.sec/60;
+      t3.sec = t3.sec % 60;
+      if(t3.min>=60)
+       {
+	 t3.hr += t3.min/60;
+	 t3.min =t3.min%60;
+	 if(t3.hr>=24)
+
+	   t3.hr=t3.min=t3.sec=0;
+      }
+   }
+    
+} 
