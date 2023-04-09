@@ -1,0 +1,1657 @@
+DIFF B/W AGILE AND TRADITIONAL
+Traditional Software Development						Agile Software Development
+It is used to develop the simple software.						It is used to develop the complicated software.
+In this methodology, testing is done once the development phase is totally completed.		In this methodology, testing and development processes are performed concurrently.
+It provides less security.							It provides high security.
+It provides less functionality in the software.					It provides all the functionality needed by the users.
+It is basically used by freshers.							It is used by professionals.
+Development cost is less using this methodology.					Development cost is high using this methodology.
+
+======================================================================
+XP
+The most widely used agile process
+1. XP Planning
+Begins with the creation of “user stories”
+Agile team assesses each story and assigns a cost
+Stories are grouped to for a deliverable increment
+A commitment is made on delivery date
+After the first increment “project velocity” is used to help define subsequent delivery dates for other increments
+2. XP Design
+Follows the Keep It Simple principle (The Keep it simple principle states that most systems work best if they are kept simple)
+Encourage the use of CRC cards (Class-responsibility-collaboration (CRC) cards are a brainstorming tool used in the design of object-oriented software.)
+For difficult design problems, suggests the creation of “spike solutions”—a design prototype (Build the spike to only addresses the problem under examination and ignore all other concerns).
+Encourages “refactoring”—an iterative refinement of the internal program design
+3. XP Coding
+Recommends the construction of a unit test for a store before coding commences
+Encourages “pair programming” (two people collaborate in programming)
+4. XP Testing
+All unit tests are executed daily
+“Acceptance tests” are defined by the customer and executed to assess customer visible functionality
+=======================================================
+DIAG
+================================================================================
+AGILITY PRINCIPLE
+1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+2.	Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. 
+3.	Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. 
+4.	Business people and developers must work together daily throughout the project.  
+5.	Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. 
+6.	The most efficient and effective method of conveying information to and within a development team is face–to–face conversation.
+7.	Working software is the primary measure of progress. 
+8.	Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.  
+9.	Continuous attention to technical excellence and good design enhances agility.  
+10. Simplicity – the art of maximizing the amount of work not done – is essential.  
+11. The best architectures, requirements, and designs emerge from self–organizing teams. 
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+================================================================================================
+MANIFESTO OF AGILE
+“We are discovering better ways of developing software by doing it and helping others do it.  Through this work we have come to value: 
+Individuals and interactions over processes and tools 
+Working software over comprehensive documentation 
+Customer collaboration over contract negotiation 
+Responding to change over following a plan 
+That is, while there is value in the items on the right, we value the items on the left more.”
+=======================================================================
+AGILITY
+Effective (rapid and adaptive) response to change
+Effective communication among all stakeholders
+Drawing the customer onto the team
+Organizing a team so that it is in control of the work performed
+Rapid, incremental delivery of software
+==================================================
+AGILE PROCESS
+Is driven by customer descriptions of what is required (scenarios)
+Recognizes that plans are short-lived
+Develops software iteratively with a heavy emphasis on construction activities
+Delivers multiple ‘software increments’
+Adapts as changes occur
+=====================================================
+DIAG
+========================================================
+SOFTWARE
+Software can define as:
+Instruction – executed provide desire features, function & performance.
+Data structure – to adequately manipulate operation.
+Documents – operation and use of the program.
+
+Computer software is a product or program code
+developed by software engineers.
+
+The applications of computer software are:
+Telecommunication, military, medical sciences, online
+shopping, office products, IT industry etc.
+
+A Software consists of data and the related
+documents.
+
+The software is the key element in all computer based
+systems and products.
+
+The main purpose behind software engineering is to
+give a framework for building a software with best
+quality.
+=====================================================================
+CHARS OF S/W
+Software should achieve a good quality in design
+and meet all the specifications of the customer.
+
+Software does not wear out i.e. it does not lose
+the material.
+
+Software should be inherently complex.
+
+Software must be efficient i.e. the ability of the
+software to use system resources in an effective
+and efficient manner.
+
+Software must be integral i.e. it must prevent
+from unauthorized access to the software or data.
+================================================
+S/W LAYERED TECH
+Software engineering is a fully layered
+technology.
+
+To develop a software, we need to go from
+one layer to another.
+
+All these layers are related to each other and
+each layer demands the fulfilment of the
+previous layer.
+
+DIAG
+
+1. Tools The software engineering tool is an automated
+support for the software development.
+
+The tools are integrated i.e the information created by one
+tool can be used by the other tool.
+
+For example: The Microsoft publisher can be used as a web
+designing tool.
+
+2. Methods The method provides the answers of all 'how-to'
+that are asked during the process.
+
+It provides the technical way to implement the software.
+
+It includes collection of tasks starting from communication,
+requirement analysis, analysis and design modelling,
+program construction, testing and support.
+
+3. Process It is the base layer or foundation layer for the software
+engineering.
+
+The software process is the key to keep all levels together.
+
+It defines a framework that includes different activities and tasks.
+
+In short, it covers all activities, actions and tasks required to be
+carried out for software development.
+
+4.Quality focus
+The characteristics of good quality software are: Correctness of
+the functions required to be performed by the software.
+
+Maintainability of the software
+
+Integrity i.e. providing security so that the unauthorized user
+cannot access information or data.
+
+Usability i.e. the efforts required to use or operate the software.
+=====================================================
+ FRAME WORKS OF GENERIC MODEL
+1.Communication:
+
+The software development starts with the
+communication between customer and developer.
+
+2. Planning:
+
+It consists of complete estimation, scheduling for
+project development and tracking
+
+3. Modelling: Modelling consists of complete requirement analysis and the
+design of the project like algorithm, flowchart etc.
+
+The algorithm is the step-by-step solution of the problem and the flow
+chart shows a complete flow diagram of a program.
+
+4. Construction: Construction consists of code generation and the testing part.
+
+Coding part implements the design details using an appropriate
+programming language.
+
+Testing is to check whether the flow of coding is correct or not.
+
+Testing also check that the program provides desired output.
+
+5. Deployment: Deployment step consists of delivering the product to the
+customer and take feedback from them.
+
+If the customer wants some corrections or demands for the additional
+capabilities, then the change is required for improvement in the quality of
+the software.
+===========================================================
+S/W PROCESS FRAMEWORK
+=================================================
+UMBRELLA ACTIVITIES
+==========================================================
+PROCESS MODELS
+
+PRESCRIPTIVE
+1. WATERFALL
+2. INCREMENTAL
+3. RAD
+
+EVOLUTIONARY
+1. PROTOTYPE
+2. SPIRAL
+3. CONCURRENT DEVELOPMENT
+=======================================================
+WATERFALL
+The Waterfall Model
+
+The waterfall model is also called as 'Linear
+sequential model' or 'Classic life cycle model'.
+
+In this model, each phase is fully completed before
+the beginning of the next phase.
+
+This model is used for the small projects.
+
+In this model, feedback is taken after each phase to
+ensure that the project is on the right path.
+
+Testing part starts only after the development is
+complete.
+
+DIAG
+
+Advantages of waterfall model
+
+The waterfall model is simple and easy to
+understand, implement, and use.
+
+All the requirements are known at the beginning
+of the project, hence it is easy to manage.
+
+It avoids overlapping of phases because each
+phase is completed at once.
+
+This model works for small projects because the
+requirements are understood very well.
+
+This model is preferred for those projects where
+the quality is more important as compared to the
+cost of the project.
+
+Disadvantages of the waterfall model
+
+This model is not good for complex and object
+oriented projects.
+
+It is a poor model for long projects.
+
+The problems with this model are uncovered,
+until the software testing.
+
+The amount of risk is high.
+
+EX: SUPPLY CHAIN MANAGEMENT
+===========================================================
+INCREMENTAL
+The incremental model combines the elements of
+waterfall model and they are applied in an iterative
+fashion.
+
+The first increment in this model is generally a core
+product.
+
+Each increment builds the product and submits it to
+the customer for any suggested modifications.
+
+The next increment implements on the customer's
+suggestions and add additional requirements in the
+previous increment.
+
+This process is repeated until the product is finished.
+
+For example
+
+the word-processing software is developed
+using the incremental model.
+
+DIAG
+
+Advantages of incremental model
+
+This model is flexible because the cost of
+development is low and initial product
+delivery is faster.
+
+It is easier to test and debug during the
+smaller iteration.
+
+The working software generates quickly and
+early during the software life cycle.
+
+The customers can respond to its
+functionalities after every increment.
+
+Disadvantages of the incremental
+model
+
+The cost of the final product may cross the
+cost estimated initially.
+
+This model requires a very clear and complete
+planning.
+
+The planning of design is required before the
+whole system is broken into small increments.
+
+The demands of customer for the additional
+functionalities after every increment causes
+problem during the system architecture.
+===========================================
+RAD
+RAD is a Rapid Application Development model.
+
+Using the RAD model, software product is
+developed in a short period of time.
+
+The initial activity starts with the communication
+between customer and developer.
+
+Planning depends upon the initial requirements
+and then the requirements are divided into
+groups.
+
+Planning is more important to work together on
+different modules.
+
+The RAD model phases:
+
+1. Business Modeling Business modeling consist of the flow of
+information between various functions in the project.
+
+For example what type of information is produced by every
+function and which are the functions to handle that
+information.
+
+A complete business analysis should be performed to get the
+essential business information.
+
+2. Data modeling The information in the business modeling
+phase is refined into the set of objects and it is essential for
+the business.
+
+The attributes of each object are identified and define the
+relationship between objects.
+
+3. Process modeling The data objects defined in the data
+modeling phase are changed to fulfil the information flow to
+implement the business model.
+
+The process description is created for adding, modifying,
+deleting or retrieving a data object.
+
+4. Application generation In the application generation phase,
+the actual system is built.
+
+To construct the software the automated tools are used.
+
+5. Testing and turnover The prototypes are independently
+tested after each iteration so that the overall testing time is
+reduced.
+
+The data flow and the interfaces between all the
+components are Fully tested.
+
+Hence, most of the programming components are already
+tested.
+
+DIAG
+
+=============================================================
+PROTOTYPING
+Prototype is defined as first or preliminary form using which other forms are copied or derived.
+Prototype model is a set of general objectives for software.
+It does not identify the requirements like detailed input, output.
+It is software working model of limited functionality.
+In this model, working programs are quickly produced.
+
+DIAG
+
+phases
+1. Communication
+In this phase, developer and customer meet and discuss the overall objectives of the software.
+
+2. Quick designQuick design is implemented when requirements are known.
+It includes only the important aspects like input and output format of the software.
+It focuses on those aspects which are visible to the user rather than the detailed plan.
+It helps to construct a prototype.
+3. Modeling quick designThis phase gives the clear idea about the development of software because the software is now built.
+It allows the developer to better understand the exact requirements.
+
+4. Construction of prototype
+The prototype is evaluated by the customer itself.
+
+5. Deployment, delivery, feedbackIf the user is not satisfied with current prototype then it refines according to the requirements of the user.
+The process of refining the prototype is repeated until all the  requirements of users are met.
+When the users are satisfied with the developed prototype then the system is developed on the basis of final prototype.
+
+ADV
+Prototype model need not know the detailed input, output, processes, adaptability of operating system and full machine interaction.
+In the development process of this model users are actively involved.
+The development process is the best platform to understand the system by the user.
+Errors are detected much earlier.
+Gives quick user feedback for better solutions.
+It identifies the missing functionality easily. It also identifies the confusing or difficult functions.
+
+DIS
+The client involvement is more and it is not always considered by the developer.
+It is a slow process because it takes more time for development.
+Many changes can disturb the rhythm of the development team.
+It is a thrown away prototype when the users are confused with it.
+
+========================================================
+SPIRAL
+Spiral model is one of the most important Software Development Life Cycle models, which provides support for Risk Handling. In its diagrammatic representation, it looks like a spiral with many loops. The exact number of loops of the spiral is unknown and can vary from project to project. Each loop of the spiral is called a Phase of the software development process. The exact number of phases needed to develop the product can be varied by the project manager depending upon the project risks. As the project manager dynamically determines the number of phases, so the project manager has an important role to develop a product using the spiral model. 
+
+The Radius of the spiral at any point represents the expenses(cost) of the project so far, and the angular dimension represents the progress made so far in the current phase. 
+
+The below diagram shows the different phases of the Spiral Model: – 
+
+DIAG
+
+Each phase of the Spiral Model is divided into four quadrants as shown in the above figure. The functions of these four quadrants are discussed below- 
+
+Objectives determination and identify alternative solutions: Requirements are gathered from the customers and the objectives are identified, elaborated, and analyzed at the start of every phase. Then alternative solutions possible for the phase are proposed in this quadrant.
+Identify and resolve Risks: During the second quadrant, all the possible solutions are evaluated to select the best possible solution. Then the risks associated with that solution are identified and the risks are resolved using the best possible strategy. At the end of this quadrant, the Prototype is built for the best possible solution.
+Develop next version of the Product: During the third quadrant, the identified features are developed and verified through testing. At the end of the third quadrant, the next version of the software is available.
+Review and plan for the next Phase: In the fourth quadrant, the Customers evaluate the so far developed version of the software. In the end, planning for the next phase is started.
+Risk Handling in Spiral Model
+A risk is any adverse situation that might affect the successful completion of a software project. The most important feature of the spiral model is handling these unknown risks after the project has started. Such risk resolutions are easier done by developing a prototype. The spiral model supports coping up with risks by providing the scope to build a prototype at every phase of the software development. 
+
+The Prototyping Model also supports risk handling, but the risks must be identified completely before the start of the development work of the project. But in real life project risk may occur after the development work starts, in that case, we cannot use the Prototyping Model. In each phase of the Spiral Model, the features of the product dated and analyzed, and the risks at that point in time are identified and are resolved through prototyping. Thus, this model is much more flexible compared to other SDLC models. 
+
+Advantages of Spiral Model: 
+Below are some advantages of the Spiral Model. 
+
+Risk Handling: The projects with many unknown risks that occur as the development proceeds, in that case, Spiral Model is the best development model to follow due to the risk analysis and risk handling at every phase.
+Good for large projects: It is recommended to use the Spiral Model in large and complex projects.
+Flexibility in Requirements: Change requests in the Requirements at later phase can be incorporated accurately by using this model.
+Customer Satisfaction: Customer can see the development of the product at the early phase of the software development and thus, they habituated with the system by using it before completion of the total product.
+
+Disadvantages of Spiral Model: 
+Below are some main disadvantages of the spiral model. 
+
+Complex: The Spiral Model is much more complex than other SDLC models.
+Expensive: Spiral Model is not suitable for small projects as it is expensive.
+Too much dependability on Risk Analysis: The successful completion of the project is very much dependent on Risk Analysis. Without very highly experienced experts, it is going to be a failure to develop a project using this model.
+Difficulty in time management: As the number of phases is unknown at the start of the project, so time estimation is very difficult.
+============================================================
+CONCURRENT DEVELOPMENT
+The concurrent development model is called as concurrent model.
+The communication activity has completed in the first iteration and exits in the awaiting changes state.
+The modeling activity completed its initial communication and then go to the underdevelopment state.
+If the customer specifies the change in the requirement, then the modeling activity moves from the under development state into the awaiting change state.
+The concurrent process model activities moving from one state to another state.
+
+DIAG
+
+This model is applicable to all types of software development processes.
+It is easy for understanding and use.
+It gives immediate feedback from testing.
+It provides an accurate picture of the current state of a project.
+
+Disadvantages of the concurrent development model
+It needs better communication between the team members. This may not be achieved all the time.
+It requires to remember the status of the different activities.
+
+********************************************************************************************
+REQUIREMENT ENGINEERING
+Requirement Engineering is the process of defining, documenting and maintaining the requirements. It is a process of gathering and defining service provided by the system. Requirements Engineering Process consists of the following main activities:
+
+Requirements elicitation
+Requirements specification
+Requirements verification and validation
+Requirements management
+
+Requirements Elicitation:
+It is related to the various ways used to gain knowledge about 
+the project domain and requirements. 
+• The various sources of domain knowledge include 
+customers, business manuals, the existing software of same 
+type, standards and other stakeholders of the project.
+• The techniques used for requirements elicitation include interviews, 
+brainstorming, task analysis, Delphi technique, prototyping, etc. 
+• The Delphi method is a process used to arrive at a group opinion or 
+decision by surveying a panel of experts. Experts respond to several 
+rounds of questionnaires, and the responses are aggregated and 
+shared with the group after each round.
+• Elicitation does not produce 
+formal models of the requirements understood.
+Instead, it widens the domain knowledge of the analyst and thus helps 
+in providing input to the next stage.
+Requirements elicitation is perhaps the most difficult, most 
+error-prone and most communication intensive software 
+development. It can be successful only through an effective 
+customer-developer partnership. It is needed to know what the 
+users really need.
+• Requirements elicitation Activities:
+Requirements elicitation includes the subsequent activities. 
+Few of them are listed below –
+• Knowledge of the overall area where the systems is applied.
+• The details of the precise customer problem where the system 
+are going to be applied must be understood.
+• Interaction of system with external requirements.
+• Detailed investigation of user needs.
+• Define the constraints for system development.
+Requirements elicitation Methods
+There are a number of requirements elicitation methods. Few of them 
+are listed below –
+• Interviews
+• Brainstorming Sessions
+• Facilitated Application Specification Technique (FAST)
+• Quality Function Deployment (QFD)
+• Use Case Approach
+The success of an elicitation technique used depends on the maturity 
+of the analyst, developers, users, and the customer involved.
+1. Interviews
+Objective of conducting an interview is to understand the customer’s 
+expectations from the software.
+It is impossible to interview every stakeholder hence representatives 
+from groups are selected based on their expertise and credibility.
+Interviews maybe be open-ended or structured.
+• In open-ended interviews there is no pre-set agenda. Context free 
+questions may be asked to understand the problem.
+• In structured interview, agenda of fairly open questions is prepared. 
+Sometimes a proper questionnaire is designed for the interview.
+2. Brainstorming Sessions:
+• It is a group technique
+• It is intended to generate lots of new ideas hence providing a 
+platform to share views
+• A highly trained facilitator is required to handle group bias and 
+group conflicts.
+• Every idea is documented so that everyone can see it.
+• Finally, a document is prepared which consists of the list of 
+requirements and their priority if possible.
+3. Facilitated Application Specification Technique:
+It’s objective is to bridge the expectation gap – difference 
+between what the developers think they are supposed to build 
+and what customers think they are going to get.
+• A team oriented approach is developed for requirements 
+gathering.
+Each attendee is asked to make a list of objects that are-
+• Part of the environment that surrounds the system
+• Produced by the system
+• Used by the system
+• Each participant prepares his/her list, different lists are then 
+combined, redundant entries are eliminated, team is divided 
+into smaller sub-teams to develop mini-specifications and 
+finally a draft of specifications is written down using all the 
+inputs from the meeting.
+4. Quality Function Deployment:
+In this technique customer satisfaction is of prime concern, hence it 
+emphasizes on the requirements which are valuable to the 
+customer.
+3 types of requirements are identified –
+Normal requirements –
+In this the objective and goals of the proposed software are 
+discussed with the customer. Example – normal requirements for a 
+result management system may be entry of marks, calculation of 
+results, etc.,
+• Expected requirements –
+These requirements are so obvious that the customer need not 
+explicitly state them. Example – protection from unauthorized 
+access.
+• Exciting requirements –
+It includes features that are beyond customer’s expectations and 
+prove to be very satisfying when present. Example – when 
+unauthorized access is detected, it should backup and shutdown 
+all processes.
+The major steps involved in this procedure are –
+• Identify all the stakeholders, eg. Users, developers, customers etc
+• List out all requirements from customer.
+• A value indicating degree of importance is assigned to each 
+requirement.
+• In the end the final list of requirements is categorized as –
+• It is possible to achieve
+• It should be deferred and the reason for it
+• It is impossible to achieve and should be dropped off
+5. Use Case Approach:
+• This technique combines text and pictures to provide a better 
+understanding of the requirements.
+• The use cases describe the ‘what’, of a system and not ‘how’. 
+Hence, they only give a functional view of the system.
+The components of the use case design includes three major 
+things – Actor, Use cases, use case diagram.
+
+Requirements specification:
+• This activity is used to produce formal software requirement 
+models. 
+• All the requirements including the functional as well as the 
+non-functional requirements and the constraints are specified 
+by these models in totality. 
+• During specification, more knowledge about the problem may 
+be required which can again trigger the elicitation process.
+• The models used at this stage include ER diagrams, data flow 
+diagrams(DFDs), function decomposition diagrams(FDDs), data 
+dictionaries, etc.
+
+Requirements verification and validation:
+Verification: It refers to the set of tasks that ensures that the 
+software correctly implements a specific function.
+Validation: It refers to a different set of tasks that ensures that 
+the software that has been built is traceable to customer 
+requirements.
+If requirements are not validated, errors in the requirement 
+definitions would propagate to the successive stages resulting in 
+a lot of modification and rework.
+The main steps for this process include:
+• The requirements should be consistent with all the other 
+requirements i.e no two requirements should conflict with 
+each other.
+• The requirements should be complete in every sense.
+• The requirements should be practically achievable.
+• Reviews, buddy checks, making test cases, etc. are some 
+of the methods used for this.
+
+Requirements management:
+• Requirement management is the process of analyzing,
+documenting, tracking, prioritizing and agreeing on the
+requirement and controlling the communication to relevant
+stakeholders.
+• This stage takes care of the changing nature of requirements. It
+should be ensured that the SRS is as modifiable as possible so as
+to incorporate changes in requirements specified by the end
+users at later stages too.
+• Being able to modify the software as per requirements in a
+systematic and controlled manner is an extremely important part
+of the requirements engineering process
+
+===========================================================================
+CLASSIFICATION OF NON FUNCTIONAL REQUIREMENT
+
+Non-Functional Requirement (NFR) specifies the quality attribute of a software system. They judge the software system based on Responsiveness, Usability, Security, Portability and other non-functional standards that are critical to the success of the software system
+Non Functional requirements in Software Engineering allows you to impose constraints or restrictions on the design of the system across the various agile backlogs. Example, the site should load in 3 seconds when the number of simultaneous users are > 10000
+Non-Functional Requirements are the constraints or the requirements imposed on the system. They specify the quality attribute of the software. Non-Functional Requirements deal with issues like scalability, maintainability, performance, portability, security, reliability, and many more. Non-Functional Requirements address vital issues of quality for software systems
+Types of Non-functional Requirement :
+Scalability
+Reliability
+Regulatory
+Maintainability
+Serviceability
+Utility
+Security
+Manageability
+Data integrity
+Capacity
+Regulatory
+Availability
+Usability
+Interoperability
+Environmental
+These can can be classified as :
+
+Performance constraints –
+Reliability, security, response time, etc.
+Operating constraints –
+These include physical constraints (size, weight), personnel availability, skill level considerations, system accessibility for maintenance, etc.
+Interface constraints –
+These describe how the system is to interface with its environment, users, and other systems. For example, user interfaces and their qualities (e.g., user-friendliness).
+Economic constraints –
+Immediate and/or long-term costs.
+Lifecycle requirements – Quality of the design:
+These measured in terms such as maintainability, enhance ability, portability.
+
+Advantages of Non-Functional Requirement :
+
+They ensure the software system follows legal and adherence rules.
+They specify the quality attribute of the software.
+They ensure the reliability, availability, performance, and scalability of the software system
+They help in constructing the security policy of the software system.
+They ensure good user experience, ease of operating the software, and minimize the cost factor.
+
+Disadvantages of Non-functional requirement :
+
+The nonfunctional requirement may affect the various high-level software subsystem.
+They generally increase the cost as they require special consideration during the software architecture/high-level design phase.
+It is difficult to change or alter non-functional requirements once you pass them to the architecture phase.
+============================================================================================
+S/W ARCHITECTURE AND ITS STYLES
+The architecture of a system describes its major components, their relationships (structures), and how they interact with each other. Software architecture and design includes several contributory factors such as Business strategy, quality attributes, human dynamics, design, and IT environment.
+
+Software Architecture
+Architecture serves as a blueprint for a system. It provides an abstraction to manage the system complexity and establish a communication and coordination mechanism among components.
+
+It defines a structured solution to meet all the technical and operational requirements, while optimizing the common quality attributes like performance and security.
+
+Further, it involves a set of significant decisions about the organization related to software development and each of these decisions can have a considerable impact on quality, maintainability, performance, and the overall success of the final product. These decisions comprise of −
+
+Selection of structural elements and their interfaces by which the system is composed.
+
+Behavior as specified in collaborations among those elements.
+
+Composition of these structural and behavioral elements into large subsystem.
+
+Architectural decisions align with business objectives.
+
+Architectural styles guide the organization.
+
+The architectural styles that are used while designing the software as
+follows
+
+1. Data-centered architecture
+
+The data store in the file or database is occupying at the center of the
+architecture.
+
+Store data is access continuously by the other components like an
+update, delete, add, modify from the data store.
+
+Data-centered architecture helps integrity.
+
+Pass data between clients using the blackboard mechanism.
+
+The processes are independently executed by the client components.
+
+2. Data-flow architecture
+
+This architecture is applied when the input data is converted into a
+series of manipulative components into output data.
+
+A pipe and filter pattern is a set of components called as filters.
+
+Filters are connected through pipes and transfer data from one
+component to the next component.
+
+The flow of data degenerates into a single line of transform then it is
+known as batch sequential.
+
+3. Call and return architectures
+
+This architecture style allows to achieve a program structure which is easy to
+modify.
+
+Following are the sub styles exist in this category:
+1. Main program or subprogram architecture. The program is divided into
+smaller pieces hierarchically.
+
+The main program invokes many of program components in the hierarchy
+that program components are divided into subprogram.
+
+2. Remote procedure call architecture. The main program or subprogram
+components are distributed in network of multiple computers.
+
+The main aim is to increase the performance.
+
+4. Object-oriented architectures
+
+This architecture is the latest version of call-and-return architecture.
+
+It consist of the bundling of data and methods.
+
+5. Layered architectures
+
+The different layers are defined in the architecture. It consists of outer and
+inner layer.
+
+The components of outer layer manage the user interface operations.
+
+Components execute the operating system interfacing at the inner layer.
+
+The inner layers are application layer, utility layer and the core layer.
+
+In many cases, It is possible that more than one pattern is suitable and the
+alternate architectural style can be designed and evaluated.
+=====================================================================
+DESIGN CONCEPTS
+Fundamental software design concepts are as follows:
+
+Abstraction
+
+A solution is stated in large terms using the language of the
+problem environment at the highest level abstraction.
+
+The lower level of abstraction provides a more detail
+description of the solution.
+
+A sequence of instruction that contain a specific and limited
+function refers in a procedural abstraction.
+
+A collection of data that describes a data object is a data
+abstraction.
+
+Functional abstraction: This involves the use of parameterized
+subprograms. Functional abstraction can be generalized as collections of
+subprograms referred to as ‘groups’. Within these groups there exist
+routines which may be visible or hidden. Visible routines can be used
+within the containing groups as well as within other groups, whereas
+hidden routines are hidden from other groups and can be used within the
+containing group only.
+
+Data abstraction: This involves specifying data that describes a data
+object. For example, the data object window encompasses a set of
+attributes (window type, window dimension) that describe the window
+object clearly. In this abstraction mechanism, representation and
+manipulation details are ignored.
+
+Control abstraction: This states the desired effect, without stating the
+exact mechanism of control. For example, if and while statements in
+programming languages (like C and C++) are abstractions of machine code
+implementations, which involve conditional instructions. In the
+architectural design level, this abstraction mechanism permits
+specifications of sequential subprogram and exception handlers without
+the concern for exact details of implementation
+
+2. Architecture
+
+The complete structure of the software is known as
+software architecture.
+
+Structure provides conceptual integrity for a system in
+a number of ways.
+
+The architecture is the structure of program modules
+where they interact with each other in a specialized
+way.
+
+The components use the structure of data.
+
+The aim of the software design is to obtain an
+architectural framework of a system.
+
+The more detailed design activities are conducted
+from the framework.
+
+3. Patterns
+
+A design pattern describes a design structure and that structure solves a
+particular design problem in a specified content.
+
+A pattern provides a description of the solution to a recurring design
+problem of some specific domain in such a way that the solution can be
+used again and again. The objective of each pattern is to provide an insight
+to a designer who can determine the following.
+
+Whether the pattern can be reused
+
+Whether the pattern is applicable to the current project
+
+Whether the pattern can be used to develop a similar but functionally or
+structurally different design pattern.
+
+4. Modularity
+
+A software is separately divided into name and addressable components.
+Sometime they are called as modules which integrate to satisfy the
+problem requirements.
+
+Modularity is the single attribute of a software that permits a program to
+be managed easily.
+
+Modularization
+
+Modularization is a technique to divide a software
+system into multiple discrete and independent
+modules, which are expected to be capable of carrying
+out task(s) independently.
+
+These modules may work as basic constructs for the
+entire software. Designers tend to design modules
+such that they can be executed and/or compiled
+separately and independently.
+
+Modular design unintentionally follows the rules of
+‘divide and conquer’ problem-solving strategy this is
+because there are many other benefits attached with
+the modular design of a software.
+
+Advantages of modularization
+
+Smaller components are easier to maintain
+
+Program can be divided based on functional
+aspects
+
+Desired level of abstraction can be brought in the
+program
+
+Components with high cohesion can be re-used
+again
+
+Concurrent execution can be made possible
+
+Desired from security aspect
+
+Concurrency
+
+Back in time, all software are meant to be executed sequentially. By
+sequential execution we mean that the coded instruction will be
+executed one after another implying only one portion of program being
+activated at any given time.
+
+Say, a software has multiple modules, then only one of all the modules
+can be found active at any time of execution.
+
+In software design, concurrency is implemented by splitting the
+software into multiple independent units of execution, like modules
+and executing them in parallel.
+
+In other words, concurrency provides capability to the software to
+execute more than one part of code in parallel to each other.
+
+It is necessary for the programmers and designers to recognize those
+modules, which can be made parallel execution.
+
+Example
+
+The spell check feature in word processor is a module of software,
+which runs along side the word processor itself.
+
+5. Information hiding
+Modules must be specified and designed so that the
+information like algorithm and data presented in a
+module is not accessible for other modules not
+requiring that information.
+6. Functional independence
+
+The functional independence is the concept of
+separation and related to the concept of
+modularity, abstraction and information hiding.
+
+The functional independence is accessed using two
+criteria i.e Cohesion and coupling.
+
+Some of the advantages associated with information hiding are listed below.
+
+Leads to low coupling
+
+Emphasizes communication through controlled interfaces
+
+Decreases the probability of adverse effects
+
+Restricts the effects of changes in one component on others
+
+Results in higher quality software.
+
+Cohesion
+
+Cohesion is an extension of the information
+hiding concept.
+
+A cohesive module performs a single task and
+it requires a small interaction with the other
+components in other parts of the program.
+
+Coupling
+
+Coupling is an indication of interconnection
+between modules in a structure of software.
+
+Coupling and Cohesion
+
+When a software program is modularized, its
+tasks are divided into several modules based on
+some characteristics. As we know, modules are
+set of instructions put together in order to
+achieve some tasks. They are though, considered
+as single entity but may refer to each other to
+work together.
+
+There are measures by which the quality of a
+design of modules and their interaction among
+them can be measured.
+
+These measures are called coupling and cohesion.
+
+Cohesion
+
+Cohesion is a measure that defines the degree of intra-dependability
+within elements of a module. The greater the cohesion, the better is
+the program design.
+
+There are seven types of cohesion, namely –
+
+Co-incidental cohesion - It is unplanned and random cohesion,
+which might be the result of breaking the program into smaller
+modules for the sake of modularization. Because it is unplanned, it
+may serve confusion to the programmers and is generally
+not-accepted.
+
+Logical cohesion - When logically categorized elements are put
+together into a module, it is called logical cohesion.
+
+Temporal Cohesion - When elements of module are organized
+such that they are processed at a similar point in time, it is called
+temporal cohesion.
+
+Cohesion: This is a measure of integrity and efficiency of a
+module. Unlike coupling this need not be a pairwise
+(relative to other modules) measure.
+
+The cohesion of a module is affected by the high coupling of
+its sub modules or its instructions. Suppose the
+'solvequadratic' function internally computes the square
+roots it needs, its coupling quotient decreases but it
+cohesion is also reduced as the sqrt is not directly related to
+the solution process (it is not part of the algorithm).
+
+They are mutual effectors.
+
+When cohesion is high so is coupling and when you try to
+reduce the dependancy of a module (make it more
+standalone) the cohesion automatically reduces.
+
+Procedural cohesion - When elements of module are grouped
+together, which are executed sequentially in order to perform a
+task, it is called procedural cohesion.
+
+Communicational cohesion - When elements of module are
+grouped together, which are executed sequentially and work on
+same data (information), it is called communicational cohesion.
+
+Sequential cohesion - When elements of module are grouped
+because the output of one element serves as input to another
+and so on, it is called sequential cohesion.
+
+Functional cohesion - It is considered to be the highest degree
+of cohesion, and it is highly expected. Elements of module in
+functional cohesion are grouped because they all contribute to a
+single well-defined function. It can also be reused.
+
+Coupling
+
+Coupling is a measure that defines the level of
+inter-dependability among modules of a program. It
+tells at what level the modules interfere and interact
+with each other. The lower the coupling, the better
+the program.
+
+There are five levels of coupling, namely -
+
+Content coupling - When a module can directly access
+or modify or refer to the content of another module, it
+is called content level coupling.
+
+Common coupling- When multiple modules have read
+and write access to some global data, it is called
+common or global coupling.
+
+Control coupling- Two modules are called
+control-coupled if one of them decides the function
+of the other module or changes its flow of
+execution.
+
+Stamp coupling- When multiple modules share
+common data structure and work on different part
+of it, it is called stamp coupling.
+
+Data coupling- Data coupling is when two modules
+interact with each other by means of passing data
+(as parameter). If a module passes data structure as
+parameter, then the receiving module should use
+all its components.
+
+Ideally, no coupling is considered to be the best.
+
+The problem here is we have no proper system to
+measure coupling and cohesion, they are inherently
+qualitative terms. But if we are to measure them
+we can describe them as follows:
+
+Coupling: A measure of interdependency between
+program modules. It qualitatively measures how
+much stand alone a modules is with respect to
+other modules. Basically it is a pairwise metric.
+Suppose if I use the 'sqrt' function to calculate
+quadratic roots then I say they are somewhat
+coupled together.
+
+But if my 'solvequadratic' function can internally
+compute the solution numerically with out using
+the 'sqrt' or the 'surd roots' formula, then I can do
+away with coupling.
+
+7. Refinement
+
+Refinement is a top-down design approach.
+
+It is a process of elaboration.
+
+A program is established for refining levels of
+procedural details.
+
+A hierarchy is established by decomposing a
+statement of function in a stepwise manner
+till the programming language statement are
+reached.
+
+8. Refactoring
+
+It is a reorganization technique which simplifies the
+design of components without changing its function
+behaviour.
+
+Refactoring is the process of changing the software
+system in a way that it does not change the external
+behaviour of the code still improves its internal
+structure.
+
+9. Design classes
+
+The model of software is defined as a set of design
+classes.
+
+Every class describes the elements of problem domain
+and that focus on features of the problem which are
+user visible.
+
+Software design is a process to transform user
+requirements into some suitable form, which helps
+the programmer in software coding and
+implementation.
+
+For assessing user requirements, an SRS (Software
+Requirement Specification) document is created
+whereas for coding and implementation, there is a
+need of more specific and detailed requirements in
+software terms.
+
+The output of this process can directly be used into
+implementation in programming languages.
+
+Software design is the first step in SDLC
+(Software Design Life Cycle), which moves the
+concentration from problem domain to
+solution domain.
+
+It tries to specify how to fulfill the
+requirements mentioned in SRS.
+==================================================
+CHARS OF S/W DESIGN
+For good quality software to be produced, the software design must also be of good quality. Now, the matter of concern is how the quality of good software design is measured? This is done by observing certain factors in software design. These factors are:
+
+Correctness
+Understandability
+Efficiency
+Maintainability
+Now, let us define each of them in detail,
+
+1) Correctness
+First of all, the design of any software is evaluated for its correctness. The evaluators check the software for every kind of input and action and observe the results that the software will produce according to the proposed design. If the results are correct for every input, the design is accepted and is considered that the software produced according to this design will function correctly.
+
+2) Understandability
+The software design should be understandable so that the developers do not find any difficulty to understand it. Good software design should be self- explanatory. This is because there are hundreds and thousands of developers that develop different modules of the software, and it would be very time consuming to explain each design to each developer. So, if the design is easy and self- explanatory, it would be easy for the developers to implement it and build the same software that is represented in the design.
+
+3) Efficiency
+The software design must be efficient. The efficiency of the software can be estimated from the design phase itself, because if the design is describing software that is not efficient and useful, then the developed software would also stand on the same level of efficiency. Hence, for efficient and good quality software to be developed, care must be taken in the designing phase itself.
+
+4) Maintainability
+The software design must be in such a way that modifications can be easily made in it. This is because every software needs time to time modifications and maintenance. So, the design of the software must also be able to bear such changes. It should not be the case that after making some modifications the other features of the software start misbehaving. Any change made in the software design must not affect the other available features, and if the features are getting affected, then they must be handled properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****************************************************************************************
+DAVID GARVIN QUALITY DIMENSION
+
+1.Performance Quality:
+Will the software system deliver all content, functions, and options that are such as a part of the necessities model during a method that gives worth to the tip user?
+2.Feature Quality:
+Does the software system offer options that surprise and delight first-time finish users?
+3.Reliability:
+Will the software system deliver all options and capability while not failure?
+Is it obtainable once it’s needed?
+Will it deliver practicality that’s error-free?
+4.Conformance:
+Will the software system adjust to native and external software standards that are relevant to the application?
+Will it conform to the factual style and writing conventions? as an example, will the computer program conform to accepted style rules for menu choice or knowledge input?
+5.Durability:
+Will the software system be maintained (changed) or corrected (debugged) while not the accidental generation of unintentional facet effects? can changes cause the error rate or responsibility to degrade with time?
+6.Serviceability:
+Will the software system be maintained (changed) or corrected (debugged) in a tolerably short time period?
+Will support employees acquire all data they have to create changes or correct defects?
+Stephen A. Douglas Adams makes a wry comment that appears acceptable here: “The distinction between one thing that may get it wrong and something that can’t probably go wrong is that once something that can’t possibly go wrong goes wrong it always seems to be not possible to urge at or repair.”
+
+7.Aesthetics:
+There’s no doubt that every folk includes a totally different and really subjective vision of what’s aesthetic.
+And yet, most folks would agree that an aesthetic entity includes a sure class, a novel flow, and a clear “presence” that are arduous to quantify however are evident still. The aesthetic software system has these characteristics.
+8.Perception:
+In some things, you’ve got a collection of prejudices which will influence your perception of quality. as an example, if you’re introduced to a software product that was engineered by a seller United Nations agency has created poor quality within the past, your guard is raised and your perception of the present software product quality may be influenced negatively.
+Similarly, if a seller has a wonderful name, you will understand quality, even once it doesn’t very exist.
+
+Garvin’s eight dimensions of quality in the diagrammatically form:
+===============================================================
+S/W QUALITY
+Software quality engineering (SQE) is the process of implementing quality checks throughout the entire development cycle. SQE plays a key role in ensuring fast-paced agile and DevOps teams produce high-quality software.
+==================================================================
+WHITE BOX TESTING
+White box testing techniques analyze the internal structures the used data structures, internal design, code structure and the working of the software rather than just the functionality as in black box testing. It is also called glass box testing or clear box testing or structural testing.
+Working process of white box testing:
+
+Input: Requirements, Functional specifications, design documents, source code.
+Processing: Performing risk analysis for guiding through the entire process.
+Proper test planning: Designing test cases so as to cover entire code. Execute rinse-repeat until error-free software is reached. Also, the results are communicated.
+Output: Preparing final report of the entire testing process.
+Testing techniques:
+
+Statement coverage: In this technique, the aim is to traverse all statement at least once. Hence, each line of code is tested. In case of a flowchart, every node must be traversed at least once. Since all lines of code are covered, helps in pointing out faulty code.
+Minimum 2 test cases are required so that all the nodes can be traversed at least once
+Statement Coverage Example
+
+Branch Coverge: In this technique, test cases are designed so that each branch from all decision points are traversed at least once. In a flowchart, all edges must be traversed at least once.
+
+4 test cases required such that all branches of all decisions are covered, i.e, all edges of flowchart are covered
+
+Condition Coverage: In this technique, all individual conditions must be covered as shown in the following example:
+READ X, Y
+IF(X == 0 || Y == 0)
+PRINT ‘0’
+In this example, there are 2 conditions: X == 0 and Y == 0. Now, test these conditions get TRUE and FALSE as their values. One possible example would be:
+
+#TC1 – X = 0, Y = 55
+#TC2 – X = 5, Y = 0
+Multiple Condition Coverage: In this technique, all the possible combinations of the possible outcomes of conditions are tested at least once. Let’s consider the following example:
+READ X, Y
+IF(X == 0 || Y == 0)
+PRINT ‘0’
+#TC1: X = 0, Y = 0
+#TC2: X = 0, Y = 5
+#TC3: X = 55, Y = 0
+#TC4: X = 55, Y = 5
+Hence, four test cases required for two individual conditions.
+Similarly, if there are n conditions then 2n test cases would be required.
+
+Basis Path Testing: In this technique, control flow graphs are made from code or flowchart and then Cyclomatic complexity is calculated which defines the number of independent paths so that the minimal number of test cases can be designed for each independent path.
+Steps:
+Make the corresponding control flow graph
+Calculate the cyclomatic complexity
+Find the independent paths
+Design test cases corresponding to each independent path
+Flow graph notation: It is a directed graph consisting of nodes and edges. Each node represents a sequence of statements, or a decision point. A predicate node is the one that represents a decision point that contains a condition after which the graph splits. Regions are bounded by nodes and edges.
+
+
+Cyclomatic Complexity: It is a measure of the logical complexity of the software and is used to define the number of independent paths. For a graph G, V(G) is its cyclomatic complexity.
+Calculating V(G):
+
+V(G) = P + 1, where P is the number of predicate nodes in the flow graph
+V(G) = E – N + 2, where E is the number of edges and N is the total number of nodes
+V(G) = Number of non-overlapping regions in the graph
+Example:
+
+V(G) = 4 (Using any of the above formulae)
+No of independent paths = 4
+
+#P1: 1 – 2 – 4 – 7 – 8
+#P2: 1 – 2 – 3 – 5 – 7 – 8
+#P3: 1 – 2 – 3 – 6 – 7 – 8
+#P4: 1 – 2 – 4 – 7 – 1 – . . . – 7 – 8
+Loop Testing: Loops are widely used and these are fundamental to many algorithms hence, their testing is very important. Errors often occur at the beginnings and ends of loops.
+Simple loops: For simple loops of size n, test cases are designed that:
+Skip the loop entirely
+Only one pass through the loop
+2 passes
+m passes, where m < n
+n-1 ans n+1 passes
+Nested loops: For nested loops, all the loops are set to their minimum count and we start from the innermost loop. Simple loop tests are conducted for the innermost loop and this is worked outwards till all the loops have been tested.
+Concatenated loops: Independent loops, one after another. Simple loop tests are applied for each.
+If they’re not independent, treat them like nesting.
+
+Advantages:
+
+White box testing is very thorough as the entire code and structures are tested.
+It results in the optimization of code removing error and helps in removing extra lines of code.
+It can start at an earlier stage as it doesn’t require any interface as in case of black box testing.
+Easy to automate.
+Disadvantages:
+
+Main disadvantage is that it is very expensive.
+Redesign of code and rewriting code needs test cases to be written again.
+Testers are required to have in-depth knowledge of the code and programming language as opposed to black box testing.
+Missing functionalities cannot be detected as the code that exists is tested.
+Very complex and at times not realistic.
+==========================================================
+BLACK BOX TESTING
+Black box testing is a type of software testing in which the functionality of the software is not known. The testing is done without the internal knowledge of the products.
+
+Black box testing can be done in following ways:
+
+1. Syntax Driven Testing – This type of testing is applied to systems that can be syntactically represented by some language. For example- compilers,language that can be represented by context free grammar. In this, the test cases are generated so that each grammar rule is used at least once.
+
+2. Equivalence partitioning – It is often seen that many type of inputs work similarly so instead of giving all of them separately we can group them together and test only one input of each group. The idea is to partition the input domain of the system into a number of equivalence classes such that each member of class works in a similar way, i.e., if a test case in one class results in some error, other members of class would also result into same error.
+
+The technique involves two steps:
+
+Identification of equivalence class – Partition any input domain into minimum two sets: valid values and invalid values. For example, if the valid range is 0 to 100 then select one valid input like 49 and one invalid like 104.
+Generating test cases –
+(i) To each valid and invalid class of input assign unique identification number.
+(ii) Write test case covering all valid and invalid test case considering that no two invalid inputs mask each other.
+
+To calculate the square root of a number, the equivalence classes will be:
+(a) Valid inputs:
+
+Whole number which is a perfect square- output will be an integer.
+Whole number which is not a perfect square- output will be decimal number.
+Positive decimals
+(b) Invalid inputs:
+
+Negative numbers(integer or decimal).
+Characters other that numbers like “a”,”!”,”;”,etc.
+3. Boundary value analysis – Boundaries are very good places for errors to occur. Hence if test cases are designed for boundary values of input domain then the efficiency of testing improves and probability of finding errors also increase. For example – If valid range is 10 to 100 then test for 10,100 also apart from valid and invalid inputs.
+
+4. Cause effect Graphing – This technique establishes relationship between logical input called causes with corresponding actions called effect. The causes and effects are represented using Boolean graphs. The following steps are followed:
+
+Identify inputs (causes) and outputs (effect).
+Develop cause effect graph.
+Transform the graph into decision table.
+Convert decision table rules to test cases.
+For example, in the following cause effect graph:
+
+It can be converted into decision table like:
+
+Each column corresponds to a rule which will become a test case for testing. So there will be 4 test cases.
+
+5. Requirement based testing – It includes validating the requirements given in SRS of software system.
+
+6. Compatibility testing – The test case result not only depend on product but also infrastructure for delivering functionality. When the infrastructure parameters are changed it is still expected to work properly. Some parameters that generally affect compatibility of software are:
+
+Processor (Pentium 3,Pentium 4) and number of processors.
+Architecture and characteristic of machine (32 bit or 64 bit).
+Back-end components such as database servers.
+Operating System (Windows, Linux, etc).
+
+==============================================================
+DEBUGGING
+In the context of software engineering, debugging is the process of fixing a bug in the software. In other words, it refers to identifying, analyzing and removing errors. This activity begins after the software fails to execute properly and concludes by solving the problem and successfully testing the software. It is considered to be an extremely complex and tedious task because errors need to be resolved at all stages of debugging.
+
+Debugging Process: Steps involved in debugging are:
+
+Problem identification and report preparation.
+Assigning the report to software engineer to the defect to verify that it is genuine.
+Defect Analysis using modeling, documentations, finding and testing candidate flaws, etc.
+Defect Resolution by making required changes to the system.
+Validation of corrections.
+========================================================
+CHARS OF BUG
+There are five characteristics of  a bug-
+
+1. The product is not doing something which product specification say it should do.
+2. The product is doing something which product specification say it should not do.
+3. The product is not doing something which product specification does not mention but  it should do.
+4. The product is doing something which product specification does not mention but  it should not do.
+5. The product is very slow (performance),hard to use(usability) ,in users eye it is not right(GUI).
+=======================================================
+UNIT TESTING
+Unit Testing is a software testing technique by means of which individual units of software i.e. group of computer program modules, usage procedures and operating procedures are tested to determine whether they are suitable for use or not. It is a testing method using which every independent modules are tested to determine if there are any issue by the developer himself. It is correlated with functional correctness of the independent modules.
+
+Unit Testing is defined as a type of software testing where individual components of a software are tested.
+Unit Testing of software product is carried out during the development of an application. An individual component may be either an individual function or a procedure. Unit Testing is typically performed by the developer.
+
+In SDLC or V Model, Unit testing is first level of testing done before integration testing. Unit testing is such type of testing technique that is usually performed by the developers. Although due to reluctance of developers to tests, quality assurance engineers also do unit testing.
+
+Objective of Unit Testing:
+The objective of Unit Testing is:
+
+To isolate a section of code.
+To verify the correctness of code.
+To test every function and procedure.
+To fix bug early in development cycle and to save costs.
+To help the developers to understand the code base and enable them to make changes quickly.
+To help for code reuse.
+
+
+Types of Unit Testing:
+There are 2 type of Unit Testing: Manual, and Automated.
+
+Workflow of Unit Testing:
+
+
+
+Unit Testing Tools:
+Here are some commonly used Unit Testing tools:
+1. Jtest
+2. Junit
+3. NUnit
+4. EMMA
+5. PHPUnit
+
+Advantages of Unit Testing:
+
+Unit Testing allows developers to learn what functionality is provided by a unit and how to use it to gain a basic understanding of the unit API.
+Unit testing allows the programmer to refine code and make sure the module works properly.
+Unit testing enables to test parts of the project without waiting for others to be completed.
+=================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************
+SPI
+Software Process Improvement (SPI) methodology is defined as a sequence of tasks, tools, and techniques to plan and implement improvement activities to achieve specific goals such as increasing development speed, achieving higher product quality or reducing costs.
+SPI can be considered as process re-engineering or change management project to detect the software development lifecycle inefficiencies and resolve them to have a better process. This process should be mapped and aligned with organizational goals and change drivers to have real value to the organization.
+
+SPI mainly consists of 4 cyclic steps as shown in the figure below, while these steps can be broken down into more steps according to the method and techniques used. While in most cases the process will contain these steps.
+
+DIAG 
+
+Current Situation Evaluation
+This step is the initial phase of the process and it is mainly to assess the current situation of the software process by eliciting the requirements from the stakeholders, analyzing the current artifacts and deliverables, and identifying the inefficiencies from the software process. The elicitation can be conducted through different techniques. For example, individual interviews, group interview, use-case scenarios, and observations.
+
+The key considerations in this step to identify organization goals and ask the solution-oriented questions. Moreover, identifying the measurement using the GQM (Goal – Question – Metric) technique that will help in measuring the current status and measuring the effectiveness of the improvement process.
+
+Improvement Planning
+After analyzing the current situation and the improvement goals, the findings should be categorized and prioritized according to which one is the most important or have the most severity. We should observe what is the new target level of improvements should look like.
+
+Moreover, in this step, the gap between the current level and the target level should be planned in terms of a set of activities to reach that target. These activities should be prioritized with the alignment of the involved stakeholders and the organization goals, for example, if the project is using the CMMI model, the target could be reaching maturity level 4 and the company at level 3, in that case, the plan should be focused on the process areas and their activities which is related to that level of improvement with the alignment of the organization goal.
+
+Improvement Implementation
+In this step, the planned activities are executed and it puts the improvements into practice and spreads it across the organization, what can be effective at the 2nd, 3rd, and 4th step that planning and implementation could be an iterative way, for example, implementing improvement for improving requirements first, then implementing the reduction for testing process time, and so forth. This iterative way of implementation will help the organization to realize the early benefits from the SPI program early or even adopt the plan if there is no real impact measured from the improvement.
+
+Improvement Evaluation
+What is cannot be measured cannot be improved, that’s why in this step, the impact measurement is applied compared with the GQM. The before improvement measures, after the improvement measures, and the target improvement measure. Measurement, in general, permits an organization to compare the rate of actual change against its planned change and allocate resources based on the gaps between actual and expected progress.
+
+
+Software Process Improvement (SPI) methodology is defined as a sequence of tasks, tools, and techniques to plan and implement improvement activities to achieve specific goals such as increasing development speed, achieving higher product quality or reducing costs.SPI Framework
+(Figure: SPI Framework)
+Five activities of SPI Framework
+Assessment and Gap Analysis
+Assessment examines a wide range of actions and tasks that will lead to a high quality process. ?
+Consistency: Are important activities, actions and tasks applied consistently across all software projects and by all software teams? ?
+Sophistication: Are management and technical actions performed with a level of sophistication that implies a thorough understanding of best practice? ?
+Acceptance: Is the software process and software engineering practice widely accepted by management and technical staff? ?
+Commitment: Has management committed the resources required to achieve consistency, sophistication and acceptance? ?
+Gap analysis the difference between local application and best practice represents a “gap” that offers opportunities for improvement.
+Education and Training Three types of education and training should be conducted:
+Generic concepts and methods. Directed toward both managers and practitioners, this category stresses both process and practice. The intent is to provide professionals with the intellectual tools they need to apply the software process effectively and to make rational decisions about improvements to the process. ?
+Specific technology and tools. Directed primarily toward practitioners, this category stresses technologies and tools that have been adopted for local use. For example, if UML has been chosen for analysis and design modeling, a training curriculum for software engineering using UML would be established. ?
+Business communication and quality-related topics. Directed toward all stakeholders, this category focuses on “soft” topics that help enable better communication among stakeholders and foster a greater quality focus.
+Selection and Justification
+Choose the process model that best fits your organization, its stakeholders, and the software that you build. ?
+Decide on the set of framework activities that will be applied, the major work products that will be produced and the quality assurance checkpoints that will enable your team to assess progress. ?
+Develop a work breakdown for each framework activity (e.g., modeling), defining the task set that would be applied for a typical project. ?
+Once a choice is made, time and money must be expended to install it within an organization and these resource expenditures should be justified.
+Installation/Migration
+Actually software process redesign (SPR) activities. Scacchi [Sca00] states that “SPR is concerned with identification, application, and refinement of new ways to dramatically improve and transform software processes.” ?
+three different process models are considered:
+the existing (“as-is”) process, ?
+a transitional (“here-to-there”) process,
+The target (“to be”) process.
+Evaluation
+assesses the degree to which changes have been instantiated and adopted, ?
+The degree to which such changes result in better software quality or other tangible process benefits.
+the overall status of the process and the organizational culture as SPI activities proceed
+
+==================================================
+
+CMMI
+Capability Maturity Model Integration (CMMI) is a successor of CMM and is a more evolved model that incorporates best components of individual disciplines of CMM like Software CMM, Systems Engineering CMM, People CMM, etc. Since CMM is a reference model of matured practices in a specific discipline, so it becomes difficult to integrate these disciplines as per the requirements. This is why CMMI is used as it allows the integration of multiple disciplines as and when needed.
+
+Objectives of CMMI :
+
+Fulfilling customer needs and expectations.
+Value creation for investors/stockholders.
+Market growth is increased.
+Improved quality of products and services.
+Enhanced reputation in Industry.
+CMMI Representation – Staged and Continuous :
+
+A representation allows an organization to pursue a different set of improvement objectives. There are two representations for CMMI :
+
+Staged Representation :
+uses a pre-defined set of process areas to define improvement path.
+provides a sequence of improvements, where each part in the sequence serves as a foundation for the next.
+an improved path is defined by maturity level.
+maturity level describes the maturity of processes in organization.
+Staged CMMI representation allows comparison between different organizations for multiple maturity levels.
+Continuous Representation :
+allows selection of specific process areas.
+uses capability levels that measures improvement of an individual process area.
+Continuous CMMI representation allows comparison between different organizations on a process-area-by-process-area basis.
+allows organizations to select processes which require more improvement.
+In this representation, order of improvement of various processes can be selected which allows the organizations to meet their objectives and eliminate risks.
+CMMI Model – Maturity Levels :
+In CMMI with staged representation, there are five maturity levels described as follows :
+
+Maturity level 1 : Initial
+processes are poorly managed or controlled.
+unpredictable outcomes of processes involved.
+ad hoc and chaotic approach used.
+No KPAs (Key Process Areas) defined.
+Lowest quality and highest risk.
+Maturity level 2 : Managed
+requirements are managed.
+processes are planned and controlled.
+projects are managed and implemented according to their documented plans.
+This risk involved is lower than Initial level, but still exists.
+Quality is better than Initial level.
+Maturity level 3 : Defined
+processes are well characterized and described using standards, proper procedures, and methods, tools, etc.
+Medium quality and medium risk involved.
+Focus is process standardization.
+Maturity level 4 : Quantitatively managed
+quantitative objectives for process performance and quality are set.
+quantitative objectives are based on customer requirements, organization needs, etc.
+process performance measures are analyzed quantitatively.
+higher quality of processes is achieved.
+lower risk
+Maturity level 5 : Optimizing
+continuous improvement in processes and their performance.
+improvement has to be both incremental and innovative.
+highest quality of processes.
+lowest risk in processes and their performance.
+CMMI Model – Capability Levels
+A capability level includes relevant specific and generic practices for a specific process area that can improve the organization’s processes associated with that process area. For CMMI models with continuous representation, there are six capability levels as described below :
+
+Capability level 0 : Incomplete
+incomplete process – partially or not performed.
+one or more specific goals of process area are not met.
+No generic goals are specified for this level.
+this capability level is same as maturity level 1.
+Capability level 1 : Performed
+process performance may not be stable.
+objectives of quality, cost and schedule may not be met.
+a capability level 1 process is expected to perform all specific and generic practices for this level.
+only a start-step for process improvement.
+Capability level 2 : Managed
+process is planned, monitored and controlled.
+managing the process by ensuring that objectives are achieved.
+objectives are both model and other including cost, quality, schedule.
+actively managing processing with the help of metrics.
+Capability level 3 : Defined
+a defined process is managed and meets the organization’s set of guidelines and standards.
+focus is process standardization.
+Capability level 4 : Quantitatively Managed
+process is controlled using statistical and quantitative techniques.
+process performance and quality is understood in statistical terms and metrics.
+quantitative objectives for process quality and performance are established.
+Capability level 5 : Optimizing
+focuses on continually improving process performance.
+performance is improved in both ways – incremental and innovation.
+emphasizes on studying the performance results across the organization to ensure that common causes or issues are identified and fixed.
+======================================================
+S/W REENGINEERING PROCESS MODEL
+Software Re-Engineering Activities: 
+
+Software Re-Engineering is the examination and alteration of a system to reconstitute it in a new form. The principles of Re-Engineering when applied to the software development process is called software re-engineering. It affects positively at software cost, quality, service to the customer and speed of delivery. In Software Re-engineering, we are improving the software to make it more efficient and effective.
+
+The need of software Re-engineering: Software re-engineering is an economical process for software development and quality enhancement of the product. This process enables us to identify the useless consumption of deployed resources and the constraints that are restricting the development process so that the development process could be made easier and cost-effective (time, financial, direct advantage, optimize the code, indirect benefits, etc.) and maintainable. The software reengineering is necessary for having-
+
+a) Boost up productivity: Software reengineering increase productivity by optimizing the code and database so that processing gets faster.
+
+b) Processes in continuity: The functionality of older software product can be still used while the testing or development of software.
+
+c) Improvement opportunity: Meanwhile the process of software reengineering, not only software qualities, features and functionality but also your skills are refined, new ideas hit in your mind. This makes the developers mind accustomed to capturing new opportunities so that more and more new features can be developed.
+
+d) Reduction in risks: Instead of developing the software product from scratch or from the beginning stage here developers develop the product from its existing stage to enhance some specific features that are brought in concern by stakeholders or its users. Such kind of practice reduces the chances of fault fallibility.
+
+e) Saves time: As we stated above here that the product is developed from the existing stage rather than the beginning stage so the time consumes in software engineering is lesser.
+
+f) Optimization: This process refines the system features, functionalities and reduces the complexity of the product by consistent optimization as maximum as possible. 
+
+Re-Engineering cost factors: 
+ 
+
+The quality of the software to be re-engineered.
+The tool support availability for engineering.
+The extent of the data conversion which is required.
+The availability of expert staff for Re-engineering.
+
+1. Inventory Analysis: 
+Every software organisation should have an inventory of all the applications. 
+ 
+
+Inventory can be nothing more than a spreadsheet model containing information that provides a detailed description of every active application.
+By sorting this information according to business criticality, longevity, current maintainability and other local important criteria, candidates for re-engineering appear.
+The resource can then be allocated to a candidate application for re-engineering work.
+2. Document reconstructing: 
+Documentation of a system either explains how it operates or how to use it. 
+ 
+
+Documentation must be updated.
+It may not be necessary to fully document an application.
+The system is business-critical and must be fully re-documented.
+3. Reverse Engineering: 
+Reverse engineering is a process of design recovery. Reverse engineering tools extract data, architectural and procedural design information from an existing program. 
+
+4. Code Reconstructing: 
+ 
+
+To accomplish code reconstructing, the source code is analysed using a reconstructing tool. Violations of structured programming construct are noted and code is then reconstructed.
+The resultant restructured code is reviewed and tested to ensure that no anomalies have been introduced.
+5. Data Restructuring: 
+ 
+
+Data restructuring begins with a reverse engineering activity.
+Current data architecture is dissected, and the necessary data models are defined.
+Data objects and attributes are identified, and existing data structure are reviewed for quality.
+6. Forward Engineering: 
+Forward Engineering also called as renovation or reclamation not only for recovers design information from existing software but uses this information to alter or reconstitute the existing system in an effort to improve its overall quality
+========================================================
+MAINTAINANCE
+Software Maintenance is the process of modifying a software product after it has been delivered to the customer. The main purpose of software maintenance is to modify and update software applications after delivery to correct faults and to improve performance. 
+
+Need for Maintenance – 
+Software Maintenance must be performed in order to: 
+
+Correct faults.
+Improve the design.
+Implement enhancements.
+Interface with other systems.
+Accommodate programs so that different hardware, software, system features, and telecommunications facilities can be used.
+Migrate legacy software.
+Retire software.
+Challenges in Software Maintenance:
+
+The various challenges in software maintenance are given below:
+
+The popular age of any software program is taken into consideration up to ten to fifteen years. As software program renovation is open ended and might maintain for decades making it very expensive.
+Older software program’s, which had been intended to paintings on sluggish machines with much less reminiscence and garage ability can not maintain themselves tough in opposition to newly coming more advantageous software program on contemporary-day hardware.
+Changes are frequently left undocumented which can also additionally reason greater conflicts in future.
+As era advances, it turns into high priced to preserve vintage software program.
+Often adjustments made can without problems harm the authentic shape of the software program, making it difficult for any next adjustments.
+Categories of Software Maintenance – 
+Maintenance can be divided into the following: 
+ 
+
+Corrective maintenance: 
+Corrective maintenance of a software product may be essential either to rectify some bugs observed while the system is in use, or to enhance the performance of the system. 
+ 
+Adaptive maintenance: 
+This includes modifications and updations when the customers need the product to run on new platforms, on new operating systems, or when they need the product to interface with new hardware and software. 
+ 
+Perfective maintenance: 
+A software product needs maintenance to support the new features that the users want or to change different types of functionalities of the system according to the customer demands. 
+ 
+Preventive maintenance: 
+This type of maintenance includes modifications and updations to prevent future problems of the software. It goals to attend problems, which are not significant at this moment but may cause serious issues in future. 
