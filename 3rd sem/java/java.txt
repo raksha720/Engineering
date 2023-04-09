@@ -1,0 +1,20 @@
+You can find out more here- https://cs-coe.iisc.ac.in/skills-hub/competitions/
+
+You can find out more here- https://cs-coe.iisc.ac.in/skills-hub/competitions/
+
+http://www.infocobuild.com/education/audio-video-courses/computer-science/programming-in-cpp-iit-kharagpur.html
+
+Lecture 01 - Recap of C: Data Types, Variables, Literals, Operators,
+Expressions, Statements
+<http://www.infocobuild.com/education/audio-video-courses/computer-science/ProgrammingInCpp-IIT-Kharagpur/lecture-01.html&gt;
+
+Lecture 02 - Recap of C: Arrays, Structures, Unions, Pointers
+<http://www.infocobuild.com/education/audio-video-courses/computer-science/ProgrammingInCpp-IIT-Kharagpur/lecture-02.html&gt;
+
+Lecture 03 - Recap of C: Functions, Function Pointers, Input/Output, C
+Standard Library
+<http://www.infocobuild.com/education/audio-video-courses/computer-science/ProgrammingInCpp-IIT-Kharagpur/lecture-03.html&gt;
+
+*Programming in Java*
+https://onlinecourses-archive.nptel.ac.in/noc19_cs07/preview
+https://nptel.ac.in/courses/106105191/
