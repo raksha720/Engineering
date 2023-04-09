@@ -1,0 +1,22 @@
+UNIT-2: Introduction to
+Physical Layer-1:
+Data and Signals, Digital Signals, Transmission Impairment, Data Rate Limits,
+Performance. Digital Transmission:
+Digital to Digital Conversion (Only Line coding: Polar, Bipolar and Manchester
+coding), Analog to Digital conversion (only PCM), Transmission Modes.
+
+
+Line Coding Techniques in Digital Communication by Engineering Funda
+https://youtu.be/daf9F9NC7zQ
+https://www.youtube.com/watch?v=daf9F9NC7zQ
+
+
+Comparison of Unipolar, Polar, Bipolar and Manchester Line Coding Scheme in Digital Communication
+https://youtu.be/gMV82tE7Htc
+https://www.youtube.com/watch?v=gMV82tE7Htc
+
+
+Pulse Shaping techniques (Unipolar, Polar & Bipolar) in Digital Communication by Engineering Fu
+https://youtu.be/0bM-wYNdxJg
+https://www.youtube.com/watch?v=0bM-wYNdxJg
+
