@@ -1,0 +1,62 @@
+virtual memory
+
+https://drive.google.com/file/d/1GBL6_LpGYmOjfRFEFDg7FTcoqXavw8A2/view
+
+https://drive.google.com/file/d/1OP6JIYFfBgWezis8AEXj2m_c4kLIophr/view
+
+https://drive.google.com/file/d/1RWr30jFgPbcba1kPyftpLX-ZSani4F4d/view
+
+https://drive.google.com/file/d/1HpgeiFJ-rtDYwOaKKEiEKS_KzrsEWit4/view
+
+deadlock
+
+https://drive.google.com/file/d/1E-177IHUO4IMWwsPdOoeNWIxYlAF3KOB/view
+
+https://drive.google.com/file/d/1Fhwml6Yq1RIjQAGjBaoZtXnVs8w-gEqW/view
+
+https://drive.google.com/file/d/10Xdvt-KID-wGcad-0akLdEWw8VfPuftM/view
+
+https://drive.google.com/file/d/1-mRf4jboUZBcjMTW6XNsIPEaZIfrXglR/view
+
+https://drive.google.com/file/d/1WIqgJQ4wXm7vYqRbn1rKpGbSP28-GQlC/view
+
+process synchronisation
+
+https://drive.google.com/file/d/1ARwuKfXtQ3z70gs4acqdMVh_ED7trF7V/view
+
+https://drive.google.com/file/d/17uGtfOB2q0WxW0-kcXnMImdd8AiNIXUU/view
+
+https://drive.google.com/file/d/1NNBMrbjhi7Nq3vmqTshcPqTRpvKEk2mp/view
+
+https://drive.google.com/file/d/1N5ZRX1GBAnQ5sb2Y-NFp_p4-IiO5gxht/view
+
+https://drive.google.com/file/d/1fWVkx2DbkO_FEohvGQ7iJrJmhGf0ov18/view
+
+https://drive.google.com/file/d/1Qq64VGFiz_qUnZiuoaHgNfrMTtCzx9W3/view
+
+cpu scheduling
+
+https://drive.google.com/file/d/11H6LnmVPFDnI5eWJx8HQkx4mPoaq3VBY/view
+
+https://drive.google.com/file/d/1cspi1IDAm3OtaCvEdociOTKWKqpZ75GF/view
+
+https://drive.google.com/file/d/1ahCLekKYm1zrxIxhBPm0mU4bsOJqsOkf/view
+
+Video recordings of thread, shared memory and command simulation programs
+
+https://drive.google.com/file/d/1FzoX5ksIm0yLxKRS97NkRJaeUz54qt33/view
+
+https://drive.google.com/file/d/1hJkUnyIJpl62EuLO1EryE8348mL4MJL8/view
+
+https://drive.google.com/file/d/1YHkrAndzIvYn4XscV8hztenbFTRzzkHd/view
+
+https://drive.google.com/file/d/1L76M2D-sW3I0qYQTlCrygboYqefFtf06/view
+
+Class recordings - process creation and system calls
+
+https://drive.google.com/file/d/18BfeqOi-DNtsJdJfOh18s-w2C6XvcZzp/view
+
+https://drive.google.com/file/d/14GNFfTaOSczNNKenek_QP-x-YkYAM5cO/view
+
+https://drive.google.com/file/d/1nKuq5Dsi6uB5WzH2A3uduSytUvsVFknv/view
+
